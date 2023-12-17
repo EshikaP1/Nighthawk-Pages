@@ -1,9 +1,9 @@
-[[---
+---
 toc: true
 comments: true
 layout: post
-title: 4.1 - The Internet Homework
-description: Internet and basic protocols
+title: 4.2 & 4.3 - Routing And Computing Homework
+description: Routing and Computing
 type: ccc
 courses: { csp: {week: 14} }
 ---
